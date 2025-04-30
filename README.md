@@ -1,4 +1,4 @@
-Perfeito! Aqui está uma explicação organizada e clara sobre esse projeto, no estilo de um `README.md`, descrevendo todas as etapas de **leitura, tratamento e análise de dados de vendas**, ideal para documentação no GitHub:
+
 
 ---
 
@@ -86,4 +86,4 @@ df.sort_values(["Categoria", "valor_total"], ascending=[True, False], inplace=Tr
 
 ---
 
-Se quiser, posso ajudar você a transformar isso em uma apresentação para trabalho acadêmico ou projeto de portfólio. Quer seguir por esse caminho?
+
